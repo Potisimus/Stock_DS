@@ -1,0 +1,11 @@
+Here are the tables you'll need:
+public.tickers
+public.stocks
+public.stocks_hourly
+reddit.comments
+reddit.posts
+reddit.mentions
+reddit.mentions_timeline
+You may not need all of them - up to your use case. Please forward me any questions you may have about the data or about the access.
+Regards,
+Vitalii

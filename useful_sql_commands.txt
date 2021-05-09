@@ -1,0 +1,5 @@
+to see the column names of a table:
+
+select column_name
+from INFORMATION_SCHEMA.COLUMNS	
+where table_name = 'tickers'

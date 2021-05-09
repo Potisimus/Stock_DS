@@ -1,0 +1,6 @@
+'drivername': 'postgresql+pg8000',
+'username': 'careera',
+'password': '5bd943b2-06b2-4cc0-b690-ef788aff07e3',
+'host': 'db-development.cacd9cmvngyl.us-east-1.rds.amazonaws.com',
+'port': 5432,
+'database': 'postgres
